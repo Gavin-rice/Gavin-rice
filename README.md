@@ -1,4 +1,4 @@
-## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+# Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <a href="www.linkedin.com/in/gavin-gf-rice">
   <img align="left" alt="Gavin's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -12,9 +12,17 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ### I am Gavin Rice 🍚
-- An ML & Open Source enthusiast.
+Welcome to my GitHub! a little bit about my self is that I am:
+
+
+- An ML & computer hardware enthusiast.
 - A Computer Engineering Undergraduate Student at SFU. 
-- Currently working on some of my cool side projects based on Web Development and Machine Learning.
+- Currently developing new machine learning and data science projects to be integrated into web apps
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
 
+### Languages and Tools:
+<p align="left">
+  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="50"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
+  
+</p>
