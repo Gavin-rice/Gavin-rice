@@ -20,15 +20,17 @@ Welcome to my GitHub! a little bit about my self is that I am:
 - Currently developing new machine learning and data science projects to be integrated into web apps
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
-
+---
 ### Languages and Tools:
 <p align="left">
   <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="50"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
   
 </p>
--Python
--JavaScript and TypeScript (nodeJS and ReactJS)
--C/C++
--HTML/CSS
--Matlab, Maple and LaTex
+
+
+- Python
+- JavaScript and TypeScript (nodeJS and ReactJS)
+- C/C++
+- HTML/CSS
+- Matlab, Maple and LaTex
 
