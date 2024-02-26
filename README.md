@@ -16,7 +16,7 @@ Welcome to my GitHub! a little bit about my self is that I am:
 
 
 - An ML & computer hardware enthusiast.
-- A Computer Engineering Undergraduate Student at SFU. 
+- SFU Alumni BSc of Science in Mathematics with a Certificate in Compting Science 
 - Currently developing new machine learning and data science projects to be integrated into web apps
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
