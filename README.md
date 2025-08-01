@@ -18,6 +18,7 @@ Welcome to my GitHub! a little bit about my self is that I am:
 - An ML & computer hardware enthusiast.
 - SFU Alumni BSc of Science in Mathematics with a Certificate in Compting Science 
 - Currently developing new machine learning and data science projects to be integrated into web apps
+- Working as a Application Specialist and Web Developer
 
 
 ---
@@ -31,6 +32,6 @@ Welcome to my GitHub! a little bit about my self is that I am:
 - Python
 - JavaScript and TypeScript (nodeJS and ReactJS)
 - C/C++
-- HTML/CSS
+- HTML/CSS + php & WordPress
 - Matlab, Maple and LaTex
 
