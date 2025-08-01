@@ -24,7 +24,7 @@ Welcome to my GitHub! a little bit about my self is that I am:
 ---
 ### Languages and Tools:
 <p align="left">
-  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="50"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="[https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fwordpress_174881&psig=AOvVaw11zeGs5ZiqjzbbpC1fdqJN&ust=1754108895958000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOiaj4Dj6I4DFQAAAAAdAAAAABAE)" width="50">
+  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="50"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Wordpress-Logo.svg" width="50">
   
 </p>
 
